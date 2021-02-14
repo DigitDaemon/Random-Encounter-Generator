@@ -152,6 +152,8 @@ else:
 
 # control the primary appliation loop
 mainLoop = True
+printTable(encounterTable)
+printOptions()
 
 # The main application loop
 while (mainLoop):
